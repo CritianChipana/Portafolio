@@ -1,0 +1,39 @@
+
+.article{
+    padding: 20px;
+    }
+    
+    /* .article-title{
+        font-family: 'Raleway', sans-serif;
+        font-weight: 700;
+        font-size: 48px;
+        text-align: center;
+    }
+    .article-title::after,
+    .article-title::before{
+        content: '';
+        display: block;
+        padding: 1px;
+        background: #D90062;
+    } */
+    
+    .article-content{
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        row-gap: 50px;
+    
+    }
+    
+    
+    
+    .article-content .article-content--item{
+        display: flex;
+        justify-content: center;
+        /* background-size: contain; */
+        
+    }
+    .article-content .article-content--item img{
+        width: 301px;
+        height: 200px;
+    
+    }

@@ -1,0 +1,24 @@
+
+.btn-cv{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 40px;
+    
+}
+
+.btn-cv--boton{
+    padding: 25px 80px;
+    font-size: 13px;
+    font-weight: 700;
+    border-radius: 6px ;
+    outline: none;
+    border: none;
+    border: 5px solid black transparent;
+    background: #D90062;
+    color: #fff;
+}
+
+.btn-cv--boton:hover{
+    background: #bb457a;
+    color: black;
+}

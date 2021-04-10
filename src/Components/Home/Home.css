@@ -1,0 +1,59 @@
+
+.Home{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    background: green;
+    background-image: url(./../../image/Destock.jpg);
+    background-size: cover;
+    /* width: 1300px; */
+    height: 720px;
+
+}
+.Home-image{
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    background: salmon;
+    margin: 0;
+}
+
+.Home h1{
+    position: absolute;
+    top: 250px;
+
+    color: #fff;
+    font-weight: 700;
+    font-size: 43.36px;
+    text-align: center;
+}
+
+.Home .btn{
+    position: absolute;
+    top: 350px;
+
+    /* padding: 25px 80px;
+    font-size: 13px;
+    font-weight: 700;
+    border-radius: 6px ;
+    outline: none;
+    border: none;
+    border: 5px solid black transparent;
+    background: #D90062;
+    color: #fff; */
+
+}
+
+.Home .btn:hover{
+   
+    /* background: #bb457a;
+    color: black; */
+    
+}
+
+.Home-image img{
+    width: 1400px;
+    height: 720px;
+}

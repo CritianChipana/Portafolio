@@ -1,0 +1,63 @@
+
+.interes{
+    padding: 16px;
+}
+/* 
+.interes-title{
+    display: flex;
+    justify-content: center;
+}
+
+.interes-title p{
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+    font-size: 48px;
+    text-align: center;
+}
+
+.interes-title p::after,
+.interes-title p::before{
+    content: '';
+    display: block;
+    padding: 1px;
+    background-color: #D90062;
+} */
+
+
+.interes-content{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+}
+
+.interes-content--item{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 144px;
+    border-radius: 6px;
+    padding: 15px;
+    box-shadow:  15px 15px 30px #707070;
+}
+
+.fa-map-marker-alt,
+.fa-phone-square-alt,
+.fa-envelope,
+.fa-github{
+    color: #D90062;
+    font-size: 32px;
+}
+
+.interes-content--item h4{
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+    font-size: 13px;
+    margin: 5px;
+}
+
+.interes-content--item p{
+    font-family: 'Raleway', sans-serif;
+    font-weight: 400;
+    font-size: 11px;
+    margin: 0;
+}

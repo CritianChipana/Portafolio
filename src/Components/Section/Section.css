@@ -1,0 +1,79 @@
+
+.section{
+    padding: 0px 40px 40px 40px;
+    text-align: center;
+    background: #F3F3F3;
+    
+}
+/* 
+.pregunta{
+    display: flex;
+    justify-content: center;
+}
+
+.section-title{
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+    font-size: 48px;
+} */
+/* 
+.section-title::before{
+    content: '';
+    display: block;
+    padding: 1px;
+    background: #D90062;
+
+}
+
+.section-title::after{
+    content: '';
+    display: block;
+    padding: 1px;
+    background: #D90062;
+    margin-top: 5px;
+} */
+
+
+.section-content{
+    display: grid;
+    grid-template-columns: repeat(6,1fr);
+}
+
+.fa-code,.fa-stream,.fa-keyboard{
+    font-size: 30px;
+    color: #D90062;
+
+}
+.section-content--code{
+    padding: 20px;
+    grid-column: 1/3;
+}
+.section-content--code h2,
+.section-content--laptop h2,
+.section-content--keyboard h2{
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+    font-style: italic;
+    font-size: 24.31px;
+}
+
+.section-content--code p,
+.section-content--laptop p,
+.section-content--keyboard p{
+    font-family: 'Raleway', sans-serif;
+    font-size: 14.86px;
+    font-style: italic;
+    font-weight: 400;
+}
+
+.section-content--laptop{
+    padding: 20px;
+
+    grid-column: 3/5;
+}
+
+.section-content--keyboard{
+    grid-column: 5/7;
+    padding: 20px;
+
+}

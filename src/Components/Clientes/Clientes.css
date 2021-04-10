@@ -1,0 +1,73 @@
+
+.clientes{
+    padding: 0px 100px 0px 100px;
+    background-image: url(../../image/libro.jpg);
+    background-size: cover;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    height: 720px;
+    box-sizing: border-box;
+    
+}
+/* 
+.clientes-titulo{
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+    font-size: 48px;
+    text-align: center;
+}
+
+.clientes-titulo::after,
+.clientes-titulo::before{
+    content: '';
+    display: block;
+    padding: 1px;
+    background: #D90062;
+    width: 100%;
+} */
+
+.blanco{
+    background-color: rgba(252, 252, 252, 0.5);
+    padding: 10PX;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 40px 250px 0px 250px;
+    height: 432px;
+    box-sizing: border-box;
+}
+
+.perfil2 img{
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+    
+}
+
+
+.blanco h4{
+    font-size: 17.28px;
+    font-family: 'Raleway', sans-serif;
+    font-style: italic;
+    font-weight: 400;
+    text-align: center;
+    color: #222222;
+}
+
+.blanco h5{
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+    font-size: 19.44px;
+    color: #D90062;
+    margin: 0;
+}
+
+.blanco h6{
+    font-family: 'Raleway', sans-serif;
+    font-size: 11.88px;
+    font-weight: 700;
+    color: #666666;
+    margin: 2px;
+}
