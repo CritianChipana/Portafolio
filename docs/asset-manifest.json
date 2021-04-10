@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.05d79a12.chunk.css",
+    "main.js": "/static/js/main.0ee9face.chunk.js",
+    "main.js.map": "/static/js/main.0ee9face.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.d91c1adc.js",
+    "runtime-main.js.map": "/static/js/runtime-main.d91c1adc.js.map",
+    "static/js/2.cd55f283.chunk.js": "/static/js/2.cd55f283.chunk.js",
+    "static/js/2.cd55f283.chunk.js.map": "/static/js/2.cd55f283.chunk.js.map",
+    "static/js/3.e71dd7be.chunk.js": "/static/js/3.e71dd7be.chunk.js",
+    "static/js/3.e71dd7be.chunk.js.map": "/static/js/3.e71dd7be.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.05d79a12.chunk.css.map": "/static/css/main.05d79a12.chunk.css.map",
+    "static/js/2.cd55f283.chunk.js.LICENSE.txt": "/static/js/2.cd55f283.chunk.js.LICENSE.txt",
+    "static/media/BAILE.0b871ac7.jpg": "/static/media/BAILE.0b871ac7.jpg",
+    "static/media/CAFE.18b0dd73.jpg": "/static/media/CAFE.18b0dd73.jpg",
+    "static/media/CODE.d22ea270.jpg": "/static/media/CODE.d22ea270.jpg",
+    "static/media/DESTOCK2.34375a3f.jpg": "/static/media/DESTOCK2.34375a3f.jpg",
+    "static/media/Home.css": "/static/media/Destock.0493867f.jpg",
+    "static/media/MERRY.fca2079c.jpg": "/static/media/MERRY.fca2079c.jpg",
+    "static/media/OFIICE.f1d224aa.jpg": "/static/media/OFIICE.f1d224aa.jpg",
+    "static/media/Clientes.css": "/static/media/libro.88b9218b.jpg",
+    "static/media/yo.8b22caa3.jpg": "/static/media/yo.8b22caa3.jpg",
+    "static/media/yo2.ffad82c6.jpg": "/static/media/yo2.ffad82c6.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d91c1adc.js",
+    "static/js/2.cd55f283.chunk.js",
+    "static/css/main.05d79a12.chunk.css",
+    "static/js/main.0ee9face.chunk.js"
+  ]
+}
